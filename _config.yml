@@ -1,7 +1,7 @@
-
+e
 theme: jekyll-theme-dinky
-title: The State of the Union, again
-description: And this is my new textual description
+title: The title of the website shows here
+description: A rapid description of the website content
 menu: [
 {'name': 'Home', 'pagename': 'index'},
 {'name': 'sharks here !', 'pagename': 'page1'},

@@ -10,7 +10,7 @@
 Propositions, an overview:
 
 Propositon 64:
-<iframe width="560" height="315" src="<https://www.youtube.com/embed/vXNweS-p6OM?ecve>
+[![Prop 64](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)https://www.youtube.com/embed/vXNweS-p6OM?ecve"
 
 ### texts
 

@@ -11,6 +11,9 @@ Propositions, an overview:
 
 Propositon 64:
 <video src="video.mp4" width="320" height="200" controls preload></https://www.youtube.com/embed/vXNweS-p6OM?ecve">
+  
+Proposition 205
+<video src="video.mp4" width="320" height="200" controls preload></https://www.youtube.com/embed/vXNweS-p6OM?ecve">
 
 ### texts
 

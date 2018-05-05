@@ -1,6 +1,7 @@
 theme: jekyll-theme-dinky
 title: Recreational Marijuana
 description: CA & AZ. To Legalize Recreational Marijuana or Not, that is the Question. 
+-menu: [
 {'name': 'Background', 'pagename': 'index'},
 {'name': 'Research Objective and Motivation', 'pagename': 'page1'},
 {'name': 'Methodology', 'pagename': 'page2'},

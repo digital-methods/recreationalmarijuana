@@ -10,10 +10,10 @@
 Propositions, an overview:
 
 Propositon 64:
-<video src="video.mp4" width="320" height="200" controls preload></https://www.youtube.com/embed/vXNweS-p6OM?ecve">
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vXNweS-p6OM?ecve" frameborder="0" allowfullscreen></iframe>
+
 Proposition 205
-<video src="video.mp4" width="320" height="200" controls preload></https://www.youtube.com/embed/vXNweS-p6OM?ecve">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vXNweS-p6OM?ecve" frameborder="0" allowfullscreen></iframe>
 
 ### texts
 

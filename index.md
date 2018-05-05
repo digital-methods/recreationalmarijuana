@@ -1,20 +1,19 @@
-# This is the main title of the page - yeah
+# Recreational Marijuana
 
-# REALLY SUPER EASY
+# Analysis of 2016 Proposition's in California and Arizona 
 
-Here are bullet points:
-- bullet1
-- bullet2
-- bullet3
-
-## Multimedia Content:
+2016 Proposition:
+* Proposition 205 Arizona 
+* Proposition Prop 64 California 
 
 
-###  videos
+Propositions, an overview:
+
+Propositon 64
 
 Embedding Youtube content:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rZwNb11n9zk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="<https://www.youtube.com/embed/vXNweS-p6OM?ecve>
 
 ### texts
 

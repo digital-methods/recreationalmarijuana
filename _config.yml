@@ -3,7 +3,7 @@ title: AZ & CA Marijuana
 description: Newspaper Analysis Leading Up to 2016 Vote 
 menu: [
 {'name': 'Background', 'pagename': 'index'},
-{'name': 'Methodology', 'pagename': 'page1'},
-{'name': 'Results', 'pagename': 'page2'},
-{'name': 'Yet Another page', 'pagename': 'page3'},
+{'name': 'Reasoning/Objective', 'pagename': 'page1'},
+{'name': 'Methodology', 'pagename': 'page2'},
+{'name': 'Results', 'pagename': 'page3'},
 ]

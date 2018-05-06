@@ -2,8 +2,9 @@ theme: jekyll-theme-dinky
 title: AZ & CA Marijuana
 description: Newspaper Analysis Leading Up to 2016 Vote 
 menu: [
-{'name': 'Background', 'pagename': 'index'},
-{'name': 'Reasoning/Objective', 'pagename': 'page1'},
-{'name': 'Methodology', 'pagename': 'page2'},
-{'name': 'Results', 'pagename': 'page3'},
+{'name': 'Home', 'pagename': 'index'},
+{'name': 'Background', 'pagename': 'page1'},
+{'name': 'Reasoning/Objective', 'pagename': 'page2'},
+{'name': 'Methodology', 'pagename': 'page3'},
+{'name': 'Results', 'pagename': 'page4'},
 ]

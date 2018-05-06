@@ -1,6 +1,6 @@
 # Background on Marijuana in the USA
 
-https://github.com/digital-methods/recreationalmarijuana.wiki.git
+recreationalmarijuana/10632351_1581422598802932_2095928878_n.jpg
 
 Here are yet other bullet points:
 - bullet1

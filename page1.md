@@ -1,6 +1,6 @@
 # Background on Marijuana in the USA
 
-![useful image]({{http://barnabistours.com/wp-content/uploads/2015/03/10632351_1581422598802932_2095928878_n.jpg}}/assets/image.png)
+![Prisons and Dope]({http://barnabistours.com/wp-content/uploads/2015/03/10632351_1581422598802932_2095928878_n.jpg}/assets/image.png)
 
 Here are yet other bullet points:
 - bullet1

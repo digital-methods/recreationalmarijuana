@@ -55,15 +55,3 @@ This topic however contains a considerable amount of noise words, such as video,
 
 Worlds like border, drug, fence, patrol, mexico or smuggling leads us to conclude that this topic talk about border issues such as illegal traffic. It is rather clear in this respect, with only little noise words or words pointing at a different interpretation of this topic. We thus conclude that it has high explanatory value.
 
-
-
-
-
-Also possible to embed iframes from Google sheet for instance (see this [page](https://www.datavizforall.org/embed/iframe-github/) for a full guide)
-
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIfbypmECTCJl92Y_6YJh1CLUfdiUIEWtrbK7jLt1uQoy8t1W5JZz-NjP8nciUS2ByLUjJpxcsmDKN/pubchart?oid=1939677787&amp;format=interactive"></iframe>
-
-
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIfbypmECTCJl92Y_6YJh1CLUfdiUIEWtrbK7jLt1uQoy8t1W5JZz-NjP8nciUS2ByLUjJpxcsmDKN/pubchart?oid=1939677787&amp;format=interactive"></iframe>

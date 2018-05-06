@@ -1,6 +1,6 @@
 # Background on Marijuana in the USA
 
-!![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![network map](recreationalmarijuana/assets/images/10632351_1581422598802932_2095928878_n.jpg)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=EUw51ii33yE" frameborder="0" allowfullscreen></iframe>
 
@@ -9,10 +9,8 @@ Here are yet other bullet points:
 - History in California 
 - History in Arizona 
 
-<iframe src="recreationalmarijuana/assets/images/10632351_1581422598802932_2095928878_n.jpg" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
-
-Cannabis in the USA
+## Cannabis in the US
 	Possession or sale of cannabis in the United States is prohibited by federal law. 
 •	In 1970, Controlled Substances Act established marijuana as a Schedule I Drug. Basically, meaning the US government defines marijuana as having no medical value whatsoever. Schedule 1 status also restricts almost all medical research, for instance right now almost all medical cannabis for research purposes, the little that is allowed comes from U of Miss. 
 •	There have been efforts recently in the US Congress, unsuccessfully so far, to change its designation. 
@@ -26,7 +24,7 @@ As of 2018, there are 9 states plus DC that have legalized recreational use and 
 o	That amount that one can possess legally, cultivation, and the quantity of THC differs by state, if amongst those that have legalized it recreationally. 
 •	Some city governments have established laws decriminalizing possession of cannabis as well. Going from a misdemeanor to a civil infraction i.e. ticket. 
 
-History in CA
+## History in CA
 
 •	Directly following Controlled Substances Act in 1970, CA voters then rejected a prop in 1972 which would have fully decriminalization marijuana under California law.  In 1976 though the governor reduced the penalty for possession of marijuana from a felony to a misdemeanor.
 •	Nov 1996: California legalized medical marijuana (Prop 215)
@@ -38,8 +36,7 @@ o	Although this led to quasi-recreational use system
 o	Passed with 57% to 42.9%
 o	It allows for the possession, sale, tax, regulation, and cultivation. 
 
-History in AZ
-
+## History in AZ
 Proposition 200 (1996)- grey area
 •	65% of Arizona voters approved Proposition 200, a drug policy reform initiative containing a provision allowing the use of cannabis with a doctor's prescription.
 o	Repealed by state legislators a few months after
@@ -55,7 +52,7 @@ o	Failed with 48.7%
 o	Law was a little different than CA but not gravely 
 
 
-Why we chose CA and AZ.
+## Why we chose AZ and CA:
 •	Neighboring states
 •	While CA is 5 times the size of AZ (population), they have similar demographics, specially in terms of growth and minority makeup. 
 •	Both deal with a Mexican border which is a significant narrative related to marijuana usage i.e. its connection to organized crime
@@ -64,8 +61,3 @@ Why we chose CA and AZ.
 •	That said, they also have significant ideological differences. AZ is seen as one of the most conservative law and order states in the country.
 o	 It is more conservative generally than CA. 
 
-### hypertext links:
-
-- This is a [link back to homepage](index.md)
-- This [one](page1) just directs you to the same page
-- And this [link](page2) just directs you to the same page

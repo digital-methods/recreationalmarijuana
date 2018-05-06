@@ -6,6 +6,6 @@ menu: [
 {'name': 'Background', 'pagename': 'page1'},
 {'name': 'Reasoning/Objective', 'pagename': 'page2'},
 {'name': 'Methodology-Topic Modeling', 'pagename': 'page3'},
-{'name': 'Methodology-Contingency Matrix', 'pagename': 'page3'},
-{'name': 'Results', 'pagename': 'page4'},
+{'name': 'Methodology-Contingency Matrix', 'pagename': 'page4'},
+{'name': 'Results', 'pagename': 'page5'},
 ]

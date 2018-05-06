@@ -9,6 +9,9 @@ Here are yet other bullet points:
 - History in California 
 - History in Arizona 
 
+<iframe src="recreationalmarijuana/assets/images/10632351_1581422598802932_2095928878_n.jpg" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+
+
 Cannabis in the USA
 	Possession or sale of cannabis in the United States is prohibited by federal law. 
 •	In 1970, Controlled Substances Act established marijuana as a Schedule I Drug. Basically, meaning the US government defines marijuana as having no medical value whatsoever. Schedule 1 status also restricts almost all medical research, for instance right now almost all medical cannabis for research purposes, the little that is allowed comes from U of Miss. 

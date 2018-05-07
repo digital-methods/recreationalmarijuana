@@ -3,6 +3,9 @@
 ## Topic Modeling
 We identified and interpreted 8 different topics. Relevance metric is kept at λ=0.4.
 
++underlined text+	
+
+
 ## 1) Regulation
 +20 most relevant words:+ marijuana, medical, dispensary, city, cannabis, pot, would, said, use, measure, law, recreational, council, patient, initiative, legal, state, cultivation, regulation, ordinance
 

@@ -5,7 +5,7 @@ We identified and interpreted 8 different topics. Relevance metric is kept at λ
 
 
 ## 1) Regulation
-20 most relevant words: marijuana, medical, dispensary, city, cannabis, pot, would, said, use, measure, law, recreational, council, patient, initiative, legal, state, cultivation, regulation, ordinance
+*20 most relevant words: marijuana, medical, dispensary, city, cannabis, pot, would, said, use, measure, law, recreational, council, patient, initiative, legal, state, cultivation, regulation, ordinance*
 
 Words such as dispensary, medial, measure, law, council, initiative or legal lead us to interpret this topic as regulation centered. One can imagine that the discourse about recreational marijuana legalisation triggered questions such as how recreational marijuana is administered (who will administer and under what regulatory framework), who will have access, under which circumstances one will have access (what medical problems) and so on.
 

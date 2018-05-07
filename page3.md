@@ -55,5 +55,5 @@ This topic however contains a considerable amount of noise words, such as video,
 
 Worlds like border, drug, fence, patrol, mexico or smuggling leads us to conclude that this topic talk about border issues such as illegal traffic. It is rather clear in this respect, with only little noise words or words pointing at a different interpretation of this topic. We thus conclude that it has high explanatory value.
 
-## 9 and 10) no relevant topic
+## 9) and 10) no relevant topic
 We did not find any pattern for these topics. One seems to contain Spanish words, the other seems to contain only noise words. We thus excluded these two topics from our further analysis by labelling them with 'none'.

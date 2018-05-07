@@ -3,18 +3,16 @@
 ## Topic Modeling
 We identified and interpreted 8 different topics. Relevance metric is kept at λ=0.4.
 
-+underlined text+	
-
 
 ## 1) Regulation
-+20 most relevant words:+ marijuana, medical, dispensary, city, cannabis, pot, would, said, use, measure, law, recreational, council, patient, initiative, legal, state, cultivation, regulation, ordinance
+20 most relevant words: marijuana, medical, dispensary, city, cannabis, pot, would, said, use, measure, law, recreational, council, patient, initiative, legal, state, cultivation, regulation, ordinance
 
 Words such as dispensary, medial, measure, law, council, initiative or legal lead us to interpret this topic as regulation centered. One can imagine that the discourse about recreational marijuana legalisation triggered questions such as how recreational marijuana is administered (who will administer and under what regulatory framework), who will have access, under which circumstances one will have access (what medical problems) and so on.
 
 At the same time, this topic contains some noise such as would or said. However, we considered this noise of being relatively small and thus think the ‘Regulaion’ topic has high explanatory value.
 
 ## 2) Law and Order
-+20 most relevant words+: fire, police, said, man, arrested, reported, vehicle, block, officer, deputy, found, country, suspect, suspicion, road, stolen, authority, sheriff, crash, shasta
+20 most relevant words: fire, police, said, man, arrested, reported, vehicle, block, officer, deputy, found, country, suspect, suspicion, road, stolen, authority, sheriff, crash, shasta
 
 Words such as police, arrested, officer, deputy, suspect, stolen or sheriff lead us to interpret this topic as centered around domestic law and order. It is marked by the discussion of how order can be sustained even with a partial legalisation of a drug. It could be driven by fears that recreational marijuana legalisation would attract additional crime and thus needs close supervision. Also news about crimes with possession of marijuana fall in this topic.
 

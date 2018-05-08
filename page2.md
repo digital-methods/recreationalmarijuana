@@ -15,6 +15,8 @@ TEXT NEEDED
 - Both had 2016 rec marijuana prop on ballot that were quite similar ie possession, sale, tax, regulation, and cultivation
 - That said, they also have significant ideological differences. AZ is seen as one of the most conservative law and order states in the country. That said, AZ, is generally more conservative than CA. 
 
+![Map of US States and Laws]({{ site.url }}/recreationalmarijuana/assets/images/marijuana_laws.0.png.jpeg)
+
 
 ## Research Objective
 At the example of recreational marijuana legalisation in the United States, we analyse the effect of media on voters behaviour. The main rationale behind such an analysis is that voters are deciding on the basis of information provided through media, and are therefore  not only affected by the choice of media source through which they stay up to date, but also through the overall presentation of information by different media sources.

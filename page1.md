@@ -1,6 +1,6 @@
 # Background on Marijuana in the USA
 
-![A Complicated History]({{ site.url }}/recreationalmarijuana/assets/images/10632351_1581422598802932_2095928878_n-2.jpg)
+![A Complicated History](https://i.pinimg.com/564x/0a/88/82/0a88820c168b4309c1450bf70fc1bfa8.jpg)
 
 
 ### Topics

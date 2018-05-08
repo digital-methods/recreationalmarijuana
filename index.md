@@ -5,7 +5,7 @@
 2016 Proposition:
 * Proposition 205 - Arizona        * Proposition 64 - California 
 
-![Alt Text](http://barnabistours.com/wp-content/uploads/2015/03/10632351_1581422598802932_2095928878_n.jpg)
+![figure_4](https://user-images.githubusercontent.com/38719684/39635367-9722d8d0-4fbd-11e8-80fc-5fccc41d0b4c.png
 
 ## Propositions, an overview:
 

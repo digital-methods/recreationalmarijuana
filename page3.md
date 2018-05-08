@@ -1,5 +1,7 @@
 # Methodology
 
+
+
 ## Topic Modeling
 We identified and interpreted 8 different topics. Relevance metric is kept at λ=0.4.
 
@@ -56,9 +58,10 @@ This topic however contains a considerable amount of noise words, such as *video
 
 Worlds like *border*, *drug*, *fence*, *patrol*, *mexico* or *smuggling* leads us to conclude that this topic talk about border issues such as illegal traffic. It is rather clear in this respect, with only little noise words or words pointing at a different interpretation of this topic. We thus conclude that it has high explanatory value.
 
-## 9) and 10) no relevant topic
+### 9) and 10) no relevant topic
 We did not find any pattern for these topics. One seems to contain Spanish words, the other seems to contain only noise words. We thus excluded these two topics from our further analysis by labelling them with 'none'.
 
-# Conclusion on topic modeling:
+
+## Conclusion on topic modeling:
 
 We conclude that the topics ‘regulation’, ‘law and order’, ‘voting’ and ‘border control’ are interesting and well established. With the topic ‘judicial’ and ‘business’ we are more cautious and need to look into specific cases. We could not interpret ‘Religion and education’ and ‘event, lifestyle, education’ in a meaningful way. Furthermore, we had two other topics (number 9 and 10) which had no meaning at all. We labeled them as ‘none’.

@@ -6,7 +6,7 @@
 TEXT NEEDED
 
 
-## Why AZ and CA?
+## Why AZ & CA?
 
 - Neighboring states
 - While CA is 5 times the size of AZ (population), they have similar demographics, specially in terms of growth and minority makeup. 

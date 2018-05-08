@@ -5,7 +5,7 @@
 2016 Proposition:
 * Proposition 205 - Arizona        * Proposition 64 - California 
 
-![figure_4](https://github.com/digital-methods/recreationalmarijuana/blob/master/assets/images/Page%206%20PDF%20Weed.pdf)
+![network map]({{ site.url }}/demo_website/assets/images/Capture.png)
 
 ## Propositions, an overview:
 

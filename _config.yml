@@ -5,7 +5,6 @@ menu: [
 {'name': 'Home', 'pagename': 'index'},
 {'name': 'Background', 'pagename': 'page1'},
 {'name': 'Methodology', 'pagename': 'page2'},
-{'name': 'Topic Modeling', 'pagename': 'page3'},
-{'name': 'Contingency Matrix', 'pagename': 'page4'},
-{'name': 'Results', 'pagename': 'page5'},
+{'name': 'Results', 'pagename': 'page3'},
+{'name': 'Analysis', 'pagename': 'page4'},
 ]

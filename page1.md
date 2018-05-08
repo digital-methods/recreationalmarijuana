@@ -2,8 +2,6 @@
 
 ![Alt Text](http://barnabistours.com/wp-content/uploads/2015/03/10632351_1581422598802932_2095928878_n.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EUw51ii33yE" frameborder="0" allowfullscreen></iframe>
-
 Index:
 - History in the USA
 - History in California 
@@ -60,4 +58,7 @@ o	Law was a little different than CA but not gravely
 •	Both had 2016 rec marijuana prop on ballot that were quite similar ie possession, sale, tax, regulation, and cultivation
 •	That said, they also have significant ideological differences. AZ is seen as one of the most conservative law and order states in the country.
 o	 It is more conservative generally than CA. 
+
+## A Video Recap:
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EUw51ii33yE" frameborder="0" allowfullscreen></iframe>
 

@@ -1,6 +1,7 @@
 # Recreational Marijuana
 
-## Newspaper Analysis of Recreational Marijuana Proposition's in California and Arizona (2016) 
+## Recreational Marijuana Proposition's in California and Arizona (2016)
+### The Marijuana Debate Through the Analysis of Local Newspapers
 
 ![Proposition 205 in Arizona & Proposition 64 in California]({{ site.url }}/recreationalmarijuana/assets/images/Page 6 PDF Weed.pdf)
 

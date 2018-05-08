@@ -42,4 +42,4 @@ As of 2018, there are 9 states plus DC that have legalized recreational use and 
 
 
 ## A Video Recap:
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=EUw51ii33yE>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=EUw51ii33yE> </iframe>

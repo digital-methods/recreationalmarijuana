@@ -51,14 +51,6 @@ o	Failed with 48.7%
 o	Law was a little different than CA but not gravely 
 
 
-## Why we chose AZ and CA:
-•	Neighboring states
-•	While CA is 5 times the size of AZ (population), they have similar demographics, specially in terms of growth and minority makeup. 
-•	Both deal with a Mexican border which is a significant narrative related to marijuana usage i.e. its connection to organized crime
-•	They both passed medical marijuana laws through a voter referendum in 1996 (albeit one that ended up being useless in AZ because of state legislator  
-•	Both had 2016 rec marijuana prop on ballot that were quite similar ie possession, sale, tax, regulation, and cultivation
-•	That said, they also have significant ideological differences. AZ is seen as one of the most conservative law and order states in the country.
-o	 It is more conservative generally than CA. 
 
 ## A Video Recap:
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=EUw51ii33yE" frameborder="0" allowfullscreen></iframe>

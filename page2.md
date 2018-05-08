@@ -52,21 +52,4 @@ This search gave us the following corpus:
 ## Limits to Corpus
 It is important to note that the Arizona corpus is significantly smaller than the California corpus, both in terms of the number of articles and the number of sources. Three sources is an especially low number and this lack of representativeness should be considered as an important disclaimer regarding the conclusions that can be drawn from the analysis carried out on this corpus.
 
-## Sentiment Analysis
-As we sought to discover the underlying reasons that led to the proposition on the legalisation of recreational marijuana being rejected in Arizona, while being accepted in neighbouring California on the same date, our first analysis was a simple sentiment analysis on the articles collected. This sentiment analysis was carried out using the sentiment analysis script in Cortext and was done separately for California and Arizona, so as to allow an easy comparison of the results. These are presented in the figures below:
- 
-| State                      | California    | Arizona       |
-| ---------------------------| ------------- | ------------- |
-| Arithmetic mean sentiment  | 0.34          | 0.46          |
-| Min                        | -2            | -1            |
-| Max                        | 4             | 3             |
-| Standard deviation         | 0.65          | 0.67          |
-| Arithmetic mean polarity   | 3.30          | 3.36          |
-
- ![A Complicated History]({{ site.url }}/recreationalmarijuana/assets/images/Sentiment.png)
-
-## Conclusion from Sentiment Anaysis
-As can be seen, sentiment on the topic of marijuana use and the propositions for the legalisation of recreational use is very similar in both states. What is noteworthy in this sense, is that the arithmetic mean of the sentiment scores (which can vary from -10 for very negative articles to +10 for very positive articles) is only slightly positive and not in fact significantly different between the two reflecting the absence of a clear bias in any of the states. In fact, the arithmetic mean of the polarity score, which can be between 0 (lowest polarity) and 10 (highest polarity), is only just over 3 in both states. This explains the relatively low intensity of sentiment, with most articles having a sentiment score close to 0, reflecting a neutral standpoint. Considering this result, it cannot be stated that the different outcome of the votes in Arizona and California reflects a difference in sentiment on the topic in the media in both states.
-
-
 

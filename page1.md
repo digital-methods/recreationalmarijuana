@@ -31,9 +31,9 @@ As of 2018, there are 9 states plus DC that have legalized recreational use and 
 - Some city governments have established laws decriminalizing possession of cannabis as well i.e.from a misdemeanor to a civil infraction like a ticket. 
 
 ## History in CA
-- Directly following Controlled Substances Act in 1970, CA voters  rejected a proposition in 1972 which would have fully decriminalization marijuana under California law.  In 1976 though the governor reduced the penalty for possession of marijuana from a felony to a misdemeanor.
-- Nov 1996: California legalized medical marijuana (Prop 215. It passed by initiative process, and passed with (55.6%) votes in favor and (44.4%) against). Prop 215 was the first medical marijuana ballot initiative passed at the state level. Although this led to quasi-recreational use system. 
-- Nov. 2016: California voters approved the Adult Use of Marijuana Act (Proposition 64) to legalize the recreational use of cannabis. It Passed with 57% to 42.9%. It allows for possession, sale, tax, regulation, and cultivation. 
+- Directly following Controlled Substances Act in 1970, CA voters  rejected a proposition in 1972 which would have fully decriminalization marijuana under California law.  In 1976 however, the governor of CA reduced the penalty for possession of marijuana from a felony to a misdemeanor.
+- Nov 1996: California legalized medical marijuana (Prop 215). It passed by initiative process, and passed with 55.6% votes in favor and 44.4% against. Prop 215 was the first medical marijuana ballot initiative passed at the state level. Although this led to quasi-recreational use system. 
+- Nov. 2016: California voters approved the Adult Use of Marijuana Act (Proposition 64) to legalize the recreational use of cannabis. It passed with a tally of 57% to 42.9%. It allows for possession, sale, tax, regulation, and cultivation. 
 
 ## History in AZ
 - 65% of Arizona voters approved Proposition 200 in 1996. It allowed medical marijuana, although strictly. It was repealed by state legislators a few months after. The change was rejected by voters in a subsequent referendum. This led to a grey area and ultimate impasse. 

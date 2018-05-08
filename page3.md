@@ -62,6 +62,7 @@ Worlds like *border*, *drug*, *fence*, *patrol*, *mexico* or *smuggling* leads u
 We did not find any pattern for these topics. One seems to contain Spanish words, the other seems to contain only noise words. We thus excluded these two topics from our further analysis by labelling them with 'none'.
 
 
+
 ## Conclusion on topic modeling:
 
 We conclude that the topics ‘regulation’, ‘law and order’, ‘voting’ and ‘border control’ are interesting and well established. With the topic ‘judicial’ and ‘business’ we are more cautious and need to look into specific cases. We could not interpret ‘Religion and education’ and ‘event, lifestyle, education’ in a meaningful way. Furthermore, we had two other topics (number 9 and 10) which had no meaning at all. We labeled them as ‘none’.

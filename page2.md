@@ -11,7 +11,7 @@ We therefore look at the correlation between how media sources talk about politi
 TEXT NEEDED
 
 
-## Why AZ & CA?
+### Why AZ & CA?
 
 - Neighboring states
 - While CA is 5 times the size of AZ (population), they have similar demographics, specially in terms of growth and minority makeup. 

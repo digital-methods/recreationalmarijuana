@@ -59,6 +59,8 @@ It is important to note that the Arizona corpus is significantly smaller than th
 
 ## Tools Utilized
 
+![A Complicated History]({{ site.url }}/recreationalmarijuana/assets/images/Screen Shot 2018-05-08 at 6.57.43 PM.png)
+
 ### Sentiment Analysis
 As we sought to discover the underlying reasons that led to the proposition on the legalisation of recreational marijuana being rejected in Arizona, while being accepted in neighbouring California on the same date, our first analysis was a simple sentiment analysis on the articles collected. This sentiment analysis was carried out using the sentiment analysis script in Cortext and was done separately for California and Arizona, so as to allow an easy comparison of the results. This tool allows to rank every article from the corpus based on a sentiment and a polarity score. The sentiment score ranges from -10 to 10 and reflects whether the article uses more positive or more negative words. The polarity score ranges from 0 to 10 and reflects whether the article is written in an objective or subjective manner.
 

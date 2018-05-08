@@ -17,7 +17,7 @@ We therefore look at the correlation between how media sources talk about politi
 
 ## Corpus Collection
 
-![A Complicated History]({{ site.url }}/recreationalmarijuana/assets/images/Sentiment.png)
+![A Complicated History]({{ site.url }}/recreationalmarijuana/assets/images/Screen Shot 2018-05-08 at 6.13.30 PM.png)
 
 Four our research, we needed to collect a corpus large enough to be able to use data analysis tools. As such, we were presented with a few different options. The first one, considering the political nature of the topic, was of course Twitter, which hosts a large number of individual statements with a generally high subjectivity score. However, collecting a corpus of Tweets would have presented a number of issues that ultimately had us reject it as source for our corpus. Firstly, it would have been nigh impossible to filter the Tweets by region. Our research is limited to the political sentiment regarding decisions in California and Arizona and tweets on the same topic from other regions would have made it impossible to single out developments in these States. Furthermore, it would have been more difficult to separate the discussion on these specific proposals from wider discussions on Marijuana policy in the country, as many tweets on the topic of these referendums do not include a specific reference to the decisions we were looking to study.
 

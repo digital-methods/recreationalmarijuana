@@ -10,7 +10,7 @@
 
 
 ## Cannabis in the US
-	Possession or sale of cannabis in the United States is prohibited by federal law. 
+	Possession or sale of cannabis is prohibited by federal law but for states.... 
 - In 1970, Controlled Substances Act established marijuana as a Schedule I Drug. Basically, meaning the US government defines marijuana as having no medical value whatsoever. Schedule 1 status also restricts almost all medical research, for instance right now almost all medical cannabis for research purposes, the little that is allowed comes from U of Miss. 
 - There have been efforts recently in the US Congress, unsuccessfully so far, to change its designation. 
 - Federal and state law obviously don’t line up here. It’s a state’s rights issue that really hasn’t gone before the Supreme Court although a few cases have made it to lower federal courts. Congress did pass a law recently (that must be annually renewed) that  

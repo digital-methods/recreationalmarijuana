@@ -1,6 +1,6 @@
 # Interpretation
 
-By looking at the raw headlines and article data, we develop a better understanding of our cluster topics identified through topic modelling. 
+- By looking at the raw headlines and article data, we developed a better understanding of our cluster topics identified through tools such as topic modeling and the contingency matrix. 
 
 ![Map of US States and Laws]({{ site.url }}/recreationalmarijuana/assets/images/Digital Methods Presentation_Recreational Marijuana-2.pdf)
 

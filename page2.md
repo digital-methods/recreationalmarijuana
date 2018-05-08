@@ -1,6 +1,12 @@
 # Methodology
 
-## Why we chose AZ and CA:
+## Comparative Study
+
+
+TEXT NEEDED
+
+
+# Why we chose AZ and CA:
 
 - Neighboring states
 - While CA is 5 times the size of AZ (population), they have similar demographics, specially in terms of growth and minority makeup. 

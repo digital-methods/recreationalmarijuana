@@ -16,10 +16,11 @@ Marijuana legalization is one of the most controversial policy issues in the US
 - The United States is the world’s leading per capita marijuana consumer (WHO, 2008).
 - Among drug-related arrests, 38.6% were for marijuana possession and 4.6% were for marijuana sale or manufacturing (FBI, 2015).
 
-	Possession or sale of cannabis is prohibited by federal law but for states.... 
 - In 1970, the Controlled Substances Act established marijuana as a Schedule I Drug. Basically, the designation meant the US Government defined marijuana as having no medical value whatsoever. Schedule 1 status also restricts almost all medical research.
 - There have been efforts recently in the US Congress, unsuccessfully so far, to change its designation. 
 - Federal and state law obviously don’t line up here. It’s a state’s rights issue that really hasn’t gone before the Supreme Court although a few cases have made it to lower federal courts.
+
+	Possession or sale of cannabis is prohibited by federal law but for states.... 
 
 ##### States' Rights
 As of 2018, there are 9 states plus DC that have legalized recreational use and possession of a certain amount of marijuana. 

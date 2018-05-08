@@ -2,8 +2,7 @@
 
 ## Newspaper Analysis of Recreational Marijuana Proposition's in California and Arizona (2016) 
 
-2016 Proposition:
-* Proposition 205 - Arizona        * Proposition 64 - California 
+### Proposition 205 in Arizona     &      Proposition 64 in California 
 
 ![network map]({{ site.url }}/recreationalmarijuana/assets/images/Page 6 PDF Weed.pdf)
 

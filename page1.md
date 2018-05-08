@@ -1,7 +1,7 @@
 # Background on Marijuana in the USA
 
 ![A Complicated History](https://i.pinimg.com/564x/0a/88/82/0a88820c168b4309c1450bf70fc1bfa8.jpg)
-
+https://i.pinimg.com/564x/0a/88/82/0a88820c168b4309c1450bf70fc1bfa8.jpg
 
 ### Topics
 - History in the USA

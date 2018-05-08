@@ -10,6 +10,12 @@
 
 
 ## Cannabis in the US
+Marijuana legalization is one of the most controversial policy issues in the US
+- Touches upon legal, policy, science, health, medical, individual rights, states rights, etc.
+- Marijuana is the most frequently used illegal drug in the United States (American Public Health Association, 2014)  
+- The United States is the world’s leading per capita marijuana consumer.(WHO, 2008)
+- Among drug-related arrests, 38.6% were for marijuana possession and 4.6% were for marijuana sale or manufacturing. (FBI, 2015)
+
 	Possession or sale of cannabis is prohibited by federal law but for states.... 
 - In 1970, Controlled Substances Act established marijuana as a Schedule I Drug. Basically, meaning the US government defines marijuana as having no medical value whatsoever. Schedule 1 status also restricts almost all medical research, for instance right now almost all medical cannabis for research purposes, the little that is allowed comes from U of Miss. 
 - There have been efforts recently in the US Congress, unsuccessfully so far, to change its designation. 

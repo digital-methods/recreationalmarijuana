@@ -1,6 +1,6 @@
 # Background on Marijuana in the USA
 
-![Alt Text](http://barnabistours.com/wp-content/uploads/2015/03/10632351_1581422598802932_2095928878_n.jpg)
+recreationalmarijuana/assets/images/10632351_1581422598802932_2095928878_n-2.jpg
 
 # Topics
 - History in the USA

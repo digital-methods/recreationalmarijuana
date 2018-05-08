@@ -55,7 +55,7 @@ It is important to note that the Arizona corpus is significantly smaller than th
 # Tools Utilized
 
 ## Sentiment Analysis
-As we sought to discover the underlying reasons that led to the proposition on the legalisation of recreational marijuana being rejected in Arizona, while being accepted in neighbouring California on the same date, our first analysis was a simple sentiment analysis on the articles collected. This sentiment analysis was carried out using the sentiment analysis script in Cortext and was done separately for California and Arizona, so as to allow an easy comparison of the results. 
+As we sought to discover the underlying reasons that led to the proposition on the legalisation of recreational marijuana being rejected in Arizona, while being accepted in neighbouring California on the same date, our first analysis was a simple sentiment analysis on the articles collected. This sentiment analysis was carried out using the sentiment analysis script in Cortext and was done separately for California and Arizona, so as to allow an easy comparison of the results. This tool allows to rank every article from the corpus based on a sentiment and a polarity score. The sentiment score ranges from -10 to 10 and reflects whether the article uses more positive or more negative words. The polarity score ranges from 0 to 10 and reflects whether the article is written in an objective or subjective manner.
 
 ## Topic Modeling
 Topic modeling allows to discover the thematic structure of a corpus of texts. It is comparable to a library where books do not have a title but one would still like to know what the book is about. This tool allows to discover the content of such books, as it identifies words and classifies them according to similar topics.

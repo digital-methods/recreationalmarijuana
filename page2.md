@@ -1,9 +1,13 @@
 # Methodology
 
 ## Research Objective
-At the example of recreational marijuana legalisation in the United States, we analyse the effect of media on voters behaviour. The main rationale behind such an analysis is that voters are deciding on the basis of information provided through media, and are therefore  not only affected by the choice of media source through which they stay up to date, but also through the overall presentation of information by different media sources.
+Using the example of recreational marijuana legalisation in the United States, we analysed the connection between media and voter behaviour. The main rationale behind such an analysis is that voters are making decisions on the basis of information, and that this information is often provided through media. They therefore may be affected by the choice of media source through which they stay up to date i.e.through the overall presentation of information by different media sources.
 
-We therefore look at the correlation between how media sources talk about political issues and the voter’s behaviour and thus poll outcomes.
+Overall, our goal was to look at the correlation between how media sources talk about marijuana related topics, and thus political issues, and how that might affect voter behaviour, and vice versa by:
+
+- Finding and analyzing the important topics being discussed surrounding the legalization of marijuana. specifically in newspapers.
+- Comparing different states’ public discussion of the issues through media, specially as it pertains to states who pass legislation vs those where legislation fails.
+
 
 ## Comparative Study
 

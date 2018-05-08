@@ -1,6 +1,7 @@
 # Interpretation
 
-- By looking at the raw headlines and article data, we developed a better understanding of our cluster topics identified through tools such as topic modeling and the contingency matrix. 
+##### By looking at the raw headlines and article data, we developed a better understanding of our cluster topics identified through tools such as topic modeling and the contingency matrix.
+
 ![Map of US States and Laws]({{ site.url }}/recreationalmarijuana/assets/images/Digital Methods Presentation_Recreational Marijuana-2.pdf)
 
 In California, the “regulation” cluster seems to address the new wave of legislation designed to refine the parameters of previous marijuana legalization laws, such as addressing the “rules for growing marijuana.” The “law and order” cluster likely derives from discussions on the impact of state legalization on federal laws and on criminal reforms. The “judicial” cluster in California newspapers is similar but there is more noise from several articles announcing the arrests of people connected to the drug trade. Taken together, at the time of the vote, Californian newspapers paint a picture of a state with an already robust and legitimate pot industry, with the focus on how to move even more forward in refining legal frameworks regulating the market. 

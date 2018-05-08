@@ -52,4 +52,21 @@ This search gave us the following corpus:
 ## Limits to Corpus
 It is important to note that the Arizona corpus is significantly smaller than the California corpus, both in terms of the number of articles and the number of sources. Three sources is an especially low number and this lack of representativeness should be considered as an important disclaimer regarding the conclusions that can be drawn from the analysis carried out on this corpus.
 
+# Tools Utilized
+
+## Sentiment Analysis
+Text needed
+
+## Topic Modeling
+Topic modeling allows to discover the thematic structure of a corpus of texts. It is comparable to a library where books do not have a title but one would still like to know what the book is about. This tool allows to discover the content of such books, as it identifies words and classifies them according to similar topics.
+
+We used the topic modeling to get a sense of what topics were treated in newspaper articles, and therefore of what those newspapers were talking about. The idea is that newspapers, even though they employ a neutral language, can highlight different topics and as such influence voters.
+
+We derived 10 different topics from our joint corpus of newspaper articles published in Arizona and California. They are further described in the result section.
+
+The limits of topic modeling are twofold. First, topics are generated out of the frequency distribution of words in a text and their association one with another, thus checking for which words pop up together. When topics are presented however, words are without context and can thus lose its initial meaning. The interpretation of topics is thus a delicate task which can introduce a serious reader bias. Secondly, even though topics are correctly identify, one does not know how newspaper treat this topic. For example, Arizona might talk about the business aspect of marijuana legalisation, but we do not know whether this is in a positive or negative way, whether businesses accept or oppose the law, and so on.
+
+## Contingency Matrix
+A contingency matrix is a table which displays the frequency distribution of two different variables. We used such a matrix in order to display how our identified topics are distributed over different states. The red color shows a higher relative frequency of articles for the concerning state, whereas blue indicates a relative lower frequency. The size of the squares shows the frequency of articles attributed to the concerning category. Therefore, the wider in heigh, the more articles were attributed to a specific topic, the wider in with, the more articles were published in the according state.
+
 

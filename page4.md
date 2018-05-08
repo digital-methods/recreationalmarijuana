@@ -1,7 +1,6 @@
 # Results
 
 ## Sentiment Analysis
-As we sought to discover the underlying reasons that led to the proposition on the legalisation of recreational marijuana being rejected in Arizona, while being accepted in neighbouring California on the same date, our first analysis was a simple sentiment analysis on the articles collected. This sentiment analysis was carried out using the sentiment analysis script in Cortext and was done separately for California and Arizona, so as to allow an easy comparison of the results. These are presented in the figures below:
  
 | State                      | California    | Arizona       |
 | ---------------------------| ------------- | ------------- |

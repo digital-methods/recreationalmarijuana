@@ -52,9 +52,9 @@ As we sought to discover the underlying reasons that led to the proposition on t
 | Standard deviation         | 0.65          | 0.67          |
 | Arithmetic mean polarity   | 3.30          | 3.36          |
 
- 
+ ![A Complicated History]({{ site.url }}/recreationalmarijuana/assets/images/Sentiment.png)
 
-
+## Conclusion from Sentiment Anaysis
 As can be seen, sentiment on the topic of marijuana use and the propositions for the legalisation of recreational use is very similar in both states. What is noteworthy in this sense, is that the arithmetic mean of the sentiment scores (which can vary from -10 for very negative articles to +10 for very positive articles) is only slightly positive and not in fact significantly different between the two reflecting the absence of a clear bias in any of the states. In fact, the arithmetic mean of the polarity score, which can be between 0 (lowest polarity) and 10 (highest polarity), is only just over 3 in both states. This explains the relatively low intensity of sentiment, with most articles having a sentiment score close to 0, reflecting a neutral standpoint. Considering this result, it cannot be stated that the different outcome of the votes in Arizona and California reflects a difference in sentiment on the topic in the media in both states.
 
 

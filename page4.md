@@ -1,5 +1,22 @@
 # Results
 
+## Sentiment Analysis
+As we sought to discover the underlying reasons that led to the proposition on the legalisation of recreational marijuana being rejected in Arizona, while being accepted in neighbouring California on the same date, our first analysis was a simple sentiment analysis on the articles collected. This sentiment analysis was carried out using the sentiment analysis script in Cortext and was done separately for California and Arizona, so as to allow an easy comparison of the results. These are presented in the figures below:
+ 
+| State                      | California    | Arizona       |
+| ---------------------------| ------------- | ------------- |
+| Arithmetic mean sentiment  | 0.34          | 0.46          |
+| Min                        | -2            | -1            |
+| Max                        | 4             | 3             |
+| Standard deviation         | 0.65          | 0.67          |
+| Arithmetic mean polarity   | 3.30          | 3.36          |
+
+ ![A Complicated History]({{ site.url }}/recreationalmarijuana/assets/images/Sentiment.png)
+
+## Conclusion from Sentiment Anaysis
+As can be seen, sentiment on the topic of marijuana use and the propositions for the legalisation of recreational use is very similar in both states. What is noteworthy in this sense, is that the arithmetic mean of the sentiment scores (which can vary from -10 for very negative articles to +10 for very positive articles) is only slightly positive and not in fact significantly different between the two reflecting the absence of a clear bias in any of the states. In fact, the arithmetic mean of the polarity score, which can be between 0 (lowest polarity) and 10 (highest polarity), is only just over 3 in both states. This explains the relatively low intensity of sentiment, with most articles having a sentiment score close to 0, reflecting a neutral standpoint. Considering this result, it cannot be stated that the different outcome of the votes in Arizona and California reflects a difference in sentiment on the topic in the media in both states.
+
+
 ## Conclusion on topic modeling:
 
 We conclude that the topics ‘regulation’, ‘law and order’, ‘voting’ and ‘border control’ are interesting and well established. With the topic ‘judicial’ and ‘business’ we are more cautious and need to look into specific cases. We could not interpret ‘Religion and education’ and ‘event, lifestyle, education’ in a meaningful way. Furthermore, we had two other topics (number 9 and 10) which had no meaning at all. We labeled them as ‘none’.

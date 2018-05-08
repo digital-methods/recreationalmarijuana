@@ -76,4 +76,4 @@ The limits of topic modeling are twofold. First, topics are generated out of the
 ### Contingency Matrix
 A contingency matrix is a table which displays the frequency distribution of two different variables. We used such a matrix in order to display how our identified topics are distributed over different states. The red color shows a higher relative frequency of articles for the concerning state, whereas blue indicates a relative lower frequency. The size of the squares shows the frequency of articles attributed to the concerning category. Therefore, the wider in heigh, the more articles were attributed to a specific topic, the wider in with, the more articles were published in the according state.
 
-
+ 

@@ -10,8 +10,7 @@ We therefore look at the correlation between how media sources talk about politi
 
 We chose two states in the US (Arizona and California) to conduct a comparative study. The rationale behind such an approach was to isolate third variable effects. In assuming that both states are similar with regard to third variables such as population, interest groups, political mechanisms and so on, we isolated the effect media could have on the population.
 
-The assumption of similarity however needs further investigation. However, the next paragraph describes the advantage of our choice of states.
-
+Despite the fact that the similarity assumption needs further investigation, the next paragraph will discuss the advantage of our choice of states.
 
 ### Why AZ & CA?
 

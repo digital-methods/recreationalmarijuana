@@ -2,7 +2,7 @@
 
 ![Alt Text](http://barnabistours.com/wp-content/uploads/2015/03/10632351_1581422598802932_2095928878_n.jpg)
 
-Index:
+# Topics
 - History in the USA
 - History in California 
 - History in Arizona 

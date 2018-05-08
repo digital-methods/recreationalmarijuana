@@ -1,5 +1,7 @@
 # Background on Marijuana in the USA
 
+![Alt Text](http://barnabistours.com/wp-content/uploads/2015/03/10632351_1581422598802932_2095928878_n.jpg)
+
 ![network map](recreationalmarijuana/assets/images/10632351_1581422598802932_2095928878_n.jpg)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=EUw51ii33yE" frameborder="0" allowfullscreen></iframe>

@@ -13,4 +13,4 @@
 
 ### Propositon 205:
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=IJXBzaVc8Ag"> </iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/IJXBzaVc8Ag"> </iframe>
